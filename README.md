@@ -33,3 +33,22 @@ This list of approved labels is located here:
 🟨 Correction | Substantive semantic changes that rectify factual errors or address practical implementation anomalies within existing specifications.
 
 🟦 Clarification | Non-substantive semantic changes that remove ambiguity, correct grammatical/spelling errors, or update cross-references.
+
+# Structure
+Folders for the following
+
+Main | Main Document
+
+Annex | Annex Documents
+
+Publication | Metanorma Publication 
+
+Data Model | UML Model & Graphics of model
+
+FC | Feature Catalogue
+
+PC | Portrayal Catalogue
+
+Schema | .xsd schema documents
+
+S-158-101 | Validation Checks for S-101
